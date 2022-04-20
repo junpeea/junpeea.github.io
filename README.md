@@ -9,8 +9,8 @@ Jun is now preparing a future professor at Biostatisics department in United Sta
 
 ### Contact
 
-Yoon Bae Jun //
-1221 Snedecor Hall //
+Yoon Bae Jun \\
+1221 Snedecor Hall \\
 Department of Statistics;
 Iowa State University
 2438 Osborn Drive

@@ -1,3 +1,9 @@
+---
+layout: default
+title: About
+nav_order: 1
+---
+
 ## About
 
 Yoon Bae Jun (1990-) is a Postdoc Research Associate at Department of Statistics at Iowa State University.

@@ -1,3 +1,5 @@
-layout: page
-title: "PAGE TITLE"
-permalink: /name
+---
+layout: default
+title: name
+nav_order: 2
+---

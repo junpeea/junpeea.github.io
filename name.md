@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Name
+title: name
 nav_order: 2
-permalink: /
 ---

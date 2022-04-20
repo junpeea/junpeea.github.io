@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/junpeea/junpeea.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Yoon Bae Jun (1990-) is a Postdoc Research Associate at Department of Statistics at Iowa State University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Jun has been studying Spatial Statistics and Spatial Epidemiology and working on the development of statistical learning methodology for spatially dependent data.
+
+Jun is now preparing a future professor at Biostatisics department, and will teach an undergraduate Statistics course (STAT330) at the Department of Statistics, Iowa State University, in Summer, 2022.
+
 
 ### Markdown
 

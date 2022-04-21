@@ -1,7 +1,7 @@
 ---
 layout: default
 title: STAT330
-parent: teaching
+parent: Teaching
 nav_order: 1
 ---
 

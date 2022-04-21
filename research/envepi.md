@@ -7,7 +7,7 @@ nav_order: 3
 
 ## Impact of limited residential address on health effect analysis of predicted air pollution in a simulation study
 Paper  link : [Jun, IS Song, OJ Kim and SY Kim (2022)](https://doi.org/10.1038/s41370-022-00412-1)\
-Github link : [EpiSimulation](https://github.com/junpeea/COVID-PM-STZINB)\
+Github link : [EpiSimulation](https://github.com/junpeea/PM-SEOULSIM)\
 Abstract :\
 **Background** : Recent epidemiological studies of air pollution have adopted spatially-resolved prediction models to estimate air pollution concentrations at people’s homes. However, the benefit of these models was limited in many studies that used existing health data relying on incomplete addresses resulting from confidentiality concerns or lack of interest when designed.
 **Objective** : This simulation study aimed to understand the impact of incomplete addresses on health effect estimation based on the association between particulate matter with diameter ≤10 µm (PM10) and low birth weight (LBW).

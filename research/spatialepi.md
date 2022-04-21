@@ -5,6 +5,8 @@ parent: Research
 nav_order: 2
 ---
 
+Spatial epidemiology has seen considerable advances in recent years. Not only have methodologic advances been rapid during the late 1990s and 2000s, but the permeation and diffusion of the methods in areas of human and veterinary epidemiology have also been considerable. It is now commonplace to consider a geographic dimension to be included within a research design in studies involving nutrition, physical activity, and community intervention, as well as studies of health outcomes related to environmental and social determinants [reference](https://doi.org/10.1080/01621459.2021.1880230)
+
 ## Bayesian Spatio Temporal Zero Inflated Negative Binomial
 Paper  link : [Sounak, Dey, Jun, and Lim (2022)](https://doi.org/10.1007/s13253-022-00487-1)\
 Github link : [BSTZINB](https://github.com/junpeea/COVID-PM-STZINB)\

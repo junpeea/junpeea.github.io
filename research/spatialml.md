@@ -2,7 +2,7 @@
 layout: default
 title: Spatial Machine Learning
 parent: Research
-nav_order: 5
+nav_order: 3
 ---
 
 ## Random Forest Prediction Interval for Spatial data

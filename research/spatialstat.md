@@ -7,7 +7,7 @@ nav_order: 1
 
 Spatial statistics is generally viewed as being comprised of three bajor branches: (1) countinuous spatial variation (point-referenced data); (2) discrete spatial variation (lattice or areal-unit data); and (3) spatial point patterns. [reference](https://doi.org/10.1201/9781420072884)
 
-## NSBSR 
+## Nonparametric Spectral Bayesian Spatial Regression 
 
 Paper  link : [Jun and Lim (2021)](https://doi.org/10.1007/s42952-021-00156-y)\
 Github link : [NSBSR](https://github.com/junpeea/NSBSR)\

@@ -16,7 +16,6 @@ Jun will teach an undergraduate Statistics course (STAT330) at the Department of
 
 ### Contact
 
-Yoon Bae Jun\
 1221 Snedecor Hall \
 Department of Statistics\
 Iowa State University\

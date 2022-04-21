@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Machine Learning
+title: Spatial Machine Learning
 parent: Research
 nav_order: 4
 ---

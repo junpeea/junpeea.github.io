@@ -1,5 +1,5 @@
 ---
 layout: default
-title: name
+title: CV
 nav_order: 2
 ---

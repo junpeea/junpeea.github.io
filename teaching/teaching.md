@@ -7,3 +7,4 @@ permalink: /teaching
 ---
 
 ## Recent updates
+Summer, 2022 : STAT330 : Probability and Statistics for Computer Science, Department of Statistics, Iowa State University

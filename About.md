@@ -9,7 +9,7 @@ permalink: /
 
 Yoon Bae Jun (1990-) is a Postdoc Research Associate at the Department of Statistics at Iowa State University.
 
-Jun has been studying Spatial Statistics, Spatial Epidemiology, Environmental Epidemiology, and working on the development of statistical learning methodology for spatially dependent data.
+Jun has been studying Spatial Statistics, Spatial Epidemiology, Environmental Epidemiology, and working on the development of machine learning methodology for spatially dependent data.
 
 Jun will teach an undergraduate Statistics course (STAT330) at the Department of Statistics, Iowa State University (Summer, 2022)
 

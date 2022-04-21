@@ -4,7 +4,7 @@ title: CV
 nav_order: 2
 ---
 
-View this site's [cv_JYB](https://github.com/junpeea/junpeea.github.io/220401_CV_JYB.pdf) file as an example.
+View this site's [cv_JYB](https://github.com/junpeea/junpeea.github.io/blob/main/220401_CV_JYB.pdf) file as an example.
 
 ## Site logo
 

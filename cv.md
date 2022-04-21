@@ -4,7 +4,7 @@ title: CV
 nav_order: 2
 ---
 
-Official Curriculum Vitae file (2022.04.01) : [cv_JYB](https://github.com/junpeea/junpeea.github.io/blob/main/220401_CV_JYB.pdf) 
+Curriculum Vitae file (2022.04.01) : [cv_JYB](https://github.com/junpeea/junpeea.github.io/blob/main/220401_CV_JYB.pdf) 
 
 ## Recent Updates
 

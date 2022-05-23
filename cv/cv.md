@@ -5,7 +5,7 @@ nav_order: 2
 permalink: /cv
 ---
 
-Curriculum Vitae file (2022.04.01) : [cv_JYB](https://github.com/junpeea/junpeea.github.io/blob/main/cv/220401_CV_JYB.pdf) 
+Curriculum Vitae file (2022.05.01) : [cv_JYB](https://github.com/junpeea/junpeea.github.io/blob/main/cv/220501_CV_JYB.pdf) 
 
 ## Recent Updates
 

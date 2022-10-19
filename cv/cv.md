@@ -8,7 +8,7 @@ permalink: /cv
 Curriculum Vitae (2022.10.15) : [CV](https://github.com/junpeea/junpeea.github.io/blob/main/cv/221015_CV_JYB.pdf) 
 
 
-## Recent Highlights (2022)
+## Recent Highlights
 
 * OCTOBER, 2022 : Job Application submitted (Assistant Professor level)
 * OCTOBER, 2022 : Jun, Y. B., Lim, C.Y., Kim, K.H., Nonparametric estimation of autocovariannce of a model error in time series [Archive Uploaded](https://doi.org/10.48550/arXiv.2210.07457)

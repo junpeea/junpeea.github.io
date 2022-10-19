@@ -5,7 +5,7 @@ parent: Teaching
 nav_order: 3
 ---
 
-## Statistical Consulting (Statistical Research Institute, Seoul National University)
+## Statistical Consulting (SNU Statistical Research Institute)
 
-## SAS Tutorial (Statistical Research Institute, Seoul National University)
+## SAS Tutorial (SNU Statistical Research Institute)
 

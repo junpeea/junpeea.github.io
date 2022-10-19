@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Undergraduate
+title: Undergraduate Course
 parent: Teaching
 nav_order: 1
 ---

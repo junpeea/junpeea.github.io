@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Graduate
+title: Graduate Course
 parent: Teaching
 nav_order: 2
 ---

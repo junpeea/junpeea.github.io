@@ -29,9 +29,9 @@ former instructor)
 - Overall Ranking: 4.0/5.0
 
 ### Seoul National University
-Statistical Research Institute, Instructor - SAS tutorial (Summer, 2016)
-Statistical Research Institute, Statistician - Statistical Consulting (Fall, 2015)
+Statistical Research Institute, Instructor - SAS tutorial (Summer, 2016)\
+Statistical Research Institute, Statistician - Statistical Consulting (Fall, 2015)\
 Research Assistant for graduates: Seminar in Recent Development of Applied Statistics
-(Spring, 2019; Fall, 2015)
+(Spring, 2019; Fall, 2015)\
 Research Assistant for undergraduates: Statistics (Fall, 2016; Fall, 2014; Spring, 2014)
 

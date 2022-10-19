@@ -22,6 +22,6 @@ Paper  link : [Choe, SA., Jang, J., Kim, M.J., Jun, Y. B. et al. (2019)](https:/
 ## Association between ambient air pollution and pregnancy rate in women who underwent IVF
 Paper  link : [S A Choe, Y B Jun, W S Lee, T K Yoon, S Y Kim (2018)](https://doi.org/10.1093/humrep/dey076)
 
-## Impact of limited residential address on health effect analysis of predicted air pollution in a simulation study
+## Exposure to air pollution during preconceptional and prenatal periods and risk of hypertensive disorders of pregnancy: a retrospective cohort study in Seoul, Korea
 Paper  link : [Choe, SA., Jun, YB. & Kim, SY (2018)](https://doi.org/10.1186/s12884-018-1982-z)
 

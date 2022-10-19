@@ -7,6 +7,7 @@ permalink: /cv
 
 Curriculum Vitae file (2022.10.15) : [cv_JYB](https://github.com/junpeea/junpeea.github.io/blob/main/cv/221015_CV_JYB.pdf) 
 
+
 ## Recent Updates
 
 * May,   2022 : STAT330 - Probability and Statistics for Computer Science (Instructor)

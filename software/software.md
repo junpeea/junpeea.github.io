@@ -6,11 +6,11 @@ has_children: true
 permalink: /software
 ---
 
-| Name  | Description  | Reference |
-| ------------- | ------------- | ------------- |
-| spRFPI  | Content Cell  | Content Cell  |
-| NSBSR  | Content Cell  | Content Cell  |
-| COVID-PM-STZINB  | Content Cell  | Content Cell  |
-| COVID-PM-SHINY  | Content Cell  | Content Cell  |
+| Name  | Description  |
+| ------------- | ------------- |
+| [spRFPI](https://github.com/junpeea/spRFPI)  | Random Forest Prediction Interval for Spatially Dependent Data  | 
+| NSBSR  | Content Cell  |
+| COVID-PM-STZINB  | Content Cell  |
+| COVID-PM-SHINY  | Content Cell  |
 
 

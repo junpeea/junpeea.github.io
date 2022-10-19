@@ -17,11 +17,11 @@ Results : We observed increased bias and root mean square error consistently acr
 **Impact statement** : Our simulation study focused on a common and practical challenge of limited address information in air pollution epidemiology, and investigated its impact on health effect analysis. Cohort studies of air pollution have developed advanced exposure prediction model to allow the estimation of individual-level long-term air pollution concentrations at people’s addresses. However, it is common that address information of existing health data is available at the coarse spatial scale such as city, district, and zip code area. Our findings can help understand the possible consequences of limited address information and provide practical guidance in achieving the accuracy in health effect analysis.
 
 ## Association between ambient particulate matter concentration and fetal growth restriction stratified by maternal employment.
-Paper  link : [Choe, SA., Jang, J., Kim, M.J., Jun, Y. B. et al. (2019)](https://doi.org/10.1186/s12884-019-2401-9)
+Paper  link : [Choe, SA., Jang, J., Kim, M.J., Jun, Y. B. et al. (2019)](https://doi.org/10.1186/s12884-019-2401-9)\
+
+## Association between ambient air pollution and pregnancy rate in women who underwent IVF
+Paper  link : [S A Choe, Y B Jun, W S Lee, T K Yoon, S Y Kim (2018)]([https://doi.org/10.1038/s41370-022-00412-1](https://doi.org/10.1093/humrep/dey076))\
 
 ## Impact of limited residential address on health effect analysis of predicted air pollution in a simulation study
-Paper  link : [Jun, IS Song, OJ Kim and SY Kim (2022)](https://doi.org/10.1038/s41370-022-00412-1)\
-
-## Impact of limited residential address on health effect analysis of predicted air pollution in a simulation study
-Paper  link : [Jun, IS Song, OJ Kim and SY Kim (2022)](https://doi.org/10.1038/s41370-022-00412-1)\
+Paper  link : [Choe, SA., Jun, YB. & Kim, SY (2018)](https://doi.org/10.1186/s12884-018-1982-z)\
 

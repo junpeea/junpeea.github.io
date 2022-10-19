@@ -5,7 +5,10 @@ parent: Research
 nav_order: 1
 ---
 
-Spatial statistics is generally viewed as being comprised of three bajor branches: (1) countinuous spatial variation (point-referenced data); (2) discrete spatial variation (lattice or areal-unit data); and (3) spatial point patterns. [reference](https://doi.org/10.1201/9781420072884)
+Recently developed methodologies have made great progress in fitting a complicated shape of spatial distribution and handling large spatial data. I have studied contemporary statistical models and computational algorithms for analyzing large spatial point-referenced data, and proposed a Bayesian Markov-Chain-Monte-Carlo covariance modeling of a spatially structured process over a two-dimensional rectangular lattice grid in view of the Fourier spectral density approach[Jun and Lim (2021)](https://doi.org/10.1007/s42952-021-00156-y). As a natural extension of this idea, we also proposed a novel time series regression and applications to forecast foreign exchange rate data[Jun, Lim, and Kim (2022+)](https://doi.org/10.48550/arXiv.2210.07457).
+
+Spatial Statistics has already been brought into the mainstream of statistical research, and it will continuously play an important role in statistical modeling in data-centric applications. In particular, there is an apparent demand for enriching and exploiting methodologies to deal with computational and practical challenges from large spatiotemporal datasets with high dimensional settings. I have special expertise in this research direction in joint work with great mentors[Chae Young Lim](https://scholar.google.com/citations?user=w8zE47kAAAAJ&hl=th)[Zhengyuan Zhu](https://scholar.google.com/citations?view_op=list_works&hl=en&user=ixDds0sAAAAJ). I also have abundant experience in GIS-data processing, graphical visualization, and software package developments designed for spatial data analysis.
+
 
 ## Nonparametric Spectral Bayesian Spatial Regression 
 

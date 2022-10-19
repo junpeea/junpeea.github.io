@@ -17,7 +17,7 @@ I can introduce myself as something special and spatial because I have specializ
 ## Communication and Support
 I believe that teachers living in the era of industrial revolution and global pandemic should have the ability to manage both in-person and online platform for a successful educational environment and facilitate a solid communication. Throughout my teaching experience at Iowa State University this summer, I had work experience where the lectures, assignments, and exams were all online. Students were able to study pre-recorded lecture videos according to the academic calendar, study anywhere at their own pace, and were able to submit quizzes, homework, and even midterm and final exams online for evaluation. I have learned that it is necessary to familiarize myself with the online platform and make an effort to maximize the benefits of online classes. However, I realized that we should also be careful about the most important but difficult factor, communication. Looking ahead, I would not only respond and communicate through Canvas or email, but I will also make sure to provide more support for students who struggle with motivation. I wish to sincerely show concern and care for each and every student whether that is through online platform or in person.
 
-## Teaching Experience
+## Teaching/Work Experience
 ### Iowa State University
 Instructor for undergraduates: STAT330, Probability and Statistics for Computer Science
 (Summer, 2022)

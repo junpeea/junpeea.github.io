@@ -6,6 +6,8 @@ has_children: true
 permalink: /research
 ---
 
+Google Scholar : [PUBLICATION](https://scholar.google.com/citations?user=uM0-oVcAAAAJ&hl=en)
+
 Spatial or Spatio-temporal data are continuously gaining increasing interest, and it is now commonplace to consider geographical aspect of health outcomes with applications to public health and/or preventive medicine. For example, the world is experiencing the COVID-19 pandemic, a great threat of our public health, and we could study its mortality rate at the early stage considering spatio-temporal correlation over the regions[1](https://doi.org/10.1007/s13253-022-00487-1). I have been broadly studying theories, methodologies, and applications that can be used to analyze such data within the disciplines of Statistics, Epidemiology, and Statistical Learning. Moreover, I have participated in interdisciplinary collaborating research such as air pollution epidemiology, remote sensing, and microbiome data analysis.
 
 ## Highlights

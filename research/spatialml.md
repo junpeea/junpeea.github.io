@@ -17,4 +17,4 @@ Random forest is a popular machine learning technique that is often used on spat
 
 ## An Efficient Active Learning Design through Random Forest under Covariate Shift
 Paper  link : (working in progress)\
-Github link : (working in progress)\
+Github link : (working in progress)

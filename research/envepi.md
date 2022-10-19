@@ -15,3 +15,13 @@ Abstract :\
 Results : We observed increased bias and root mean square error consistently across all environmental scenarios and prediction methods using incomplete addresses compared to complete addresses. However, the bias related to incomplete addresses decreased when we used population-representative exposures averaged to the district from predicted PM10 at census tract centroids.
 **Significance** : Our simulation study suggested that individual exposure estimated by prediction approaches and averaged across population-representative points can provide improved accuracy in health effect estimates when complete address data are unavailable.
 **Impact statement** : Our simulation study focused on a common and practical challenge of limited address information in air pollution epidemiology, and investigated its impact on health effect analysis. Cohort studies of air pollution have developed advanced exposure prediction model to allow the estimation of individual-level long-term air pollution concentrations at people’s addresses. However, it is common that address information of existing health data is available at the coarse spatial scale such as city, district, and zip code area. Our findings can help understand the possible consequences of limited address information and provide practical guidance in achieving the accuracy in health effect analysis.
+
+## Association between ambient particulate matter concentration and fetal growth restriction stratified by maternal employment.
+Paper  link : [Choe, SA., Jang, J., Kim, M.J., Jun, Y. B. et al. (2019)](https://doi.org/10.1186/s12884-019-2401-9)
+
+## Impact of limited residential address on health effect analysis of predicted air pollution in a simulation study
+Paper  link : [Jun, IS Song, OJ Kim and SY Kim (2022)](https://doi.org/10.1038/s41370-022-00412-1)\
+
+## Impact of limited residential address on health effect analysis of predicted air pollution in a simulation study
+Paper  link : [Jun, IS Song, OJ Kim and SY Kim (2022)](https://doi.org/10.1038/s41370-022-00412-1)\
+

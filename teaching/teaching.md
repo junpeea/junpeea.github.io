@@ -17,5 +17,21 @@ I can introduce myself as something special and spatial because I have specializ
 ## Communication and Support
 I believe that teachers living in the era of industrial revolution and global pandemic should have the ability to manage both in-person and online platform for a successful educational environment and facilitate a solid communication. Throughout my teaching experience at Iowa State University this summer, I had work experience where the lectures, assignments, and exams were all online. Students were able to study pre-recorded lecture videos according to the academic calendar, study anywhere at their own pace, and were able to submit quizzes, homework, and even midterm and final exams online for evaluation. I have learned that it is necessary to familiarize myself with the online platform and make an effort to maximize the benefits of online classes. However, I realized that we should also be careful about the most important but difficult factor, communication. Looking ahead, I would not only respond and communicate through Canvas or email, but I will also make sure to provide more support for students who struggle with motivation. I wish to sincerely show concern and care for each and every student whether that is through online platform or in person.
 
-## Teaching Career
-* Summer, 2022 : STAT330 - Probability and Statistics for Computer Science, Department of Statistics, Iowa State University
+## Teaching Experience
+### Iowa State University
+Instructor for undergraduates: STAT330, Probability and Statistics for Computer Science
+(Summer, 2022)
+- Topics: Basic probability; Random variables and their distributions; Stochastic processes
+including Markov chains; Basic statistical inference; Introduction to regression.
+- Responsibilities: Instruction and Evaluation (Lecture videos were provided from the
+former instructor)
+- Mode: Online
+- Overall Ranking: 4.0/5.0
+
+### Seoul National University
+Statistical Research Institute, Instructor - SAS tutorial (Summer, 2016)
+Statistical Research Institute, Statistician - Statistical Consulting (Fall, 2015)
+Research Assistant for graduates: Seminar in Recent Development of Applied Statistics
+(Spring, 2019; Fall, 2015)
+Research Assistant for undergraduates: Statistics (Fall, 2016; Fall, 2014; Spring, 2014)
+

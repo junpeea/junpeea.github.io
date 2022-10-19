@@ -5,14 +5,17 @@ parent: Research
 nav_order: 5
 ---
 
-## [Remote Sensing Collaboration] A spatiotemporal data fusion project
+## A spatiotemporal data fusion project
 Paper  link : (working in progress)\
 Github link : (working in progress)\
+Description : Remote Sensing Collaboration\
 
-## [Plant Science Collaboration] Root-associated Bacterial Community Changes Associated with Increasing Plant Stress
+## Root-associated Bacterial Community Changes Associated with Increasing Plant Stress
 Paper  link : (working in progress)\
 Github link : (working in progress)\
+Description : Plant Science Collaboration\
 
-## [Epidemiology Collaboration] Disease cluster analysis for diabetes and hypertension
+## Disease cluster analysis for diabetes and hypertension
 Paper  link : (working in progress)\
 Github link : (working in progress)\
+Description : Epidemiology Collaboration\

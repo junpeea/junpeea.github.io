@@ -24,4 +24,4 @@ Ames, Iowa 50011-1090\
 Phone: (515) 708-5463\
 Email: yjun@iastate.edu
 
-![alt text](me.png)
+![](me.jpeg)

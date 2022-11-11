@@ -10,14 +10,14 @@ Google Scholar : [PUBLICATION](https://scholar.google.com/citations?user=uM0-oVc
 
 Spatial or Spatio-temporal data are continuously gaining increasing interest, and it is now commonplace to consider geographical aspect of health outcomes with applications to public health and/or preventive medicine. For example, the world is experiencing the COVID-19 pandemic, a great threat of our public health, and we could study its mortality rate at the early stage considering spatio-temporal correlation over the regions[1](https://doi.org/10.1007/s13253-022-00487-1). I have been broadly studying theories, methodologies, and applications that can be used to analyze such data within the disciplines of Statistics, Epidemiology, and Statistical Learning. Moreover, I have participated in interdisciplinary collaborating research such as air pollution epidemiology, remote sensing, and microbiome data analysis.
 
+![](PR4.png)
+
 ## Highlights
 * OCTOBER, 2022 : Finalize Manuscript for Random Forest Prediction Intervals for Spatial data
 * SEPTEMBER, 2022 : Paper presentation (2022), An Efficient Active Learning Design through Random Forest under Covariate, Fall conference, Center for Survey Statistics & Methodology, Iowa State University
 * AUGUST, 2022 : Poster presentation (2022), Nonparametric estimation of the autocovariance of a Gaussian Process model in time series, Expressing and Exploiting Structure in Modeling, Theory, and Computation with Gaussian Processes, The Institute for Mathematical and Statistical Innovation (IMSI) workshop
 * APRIL, 2022 : Open the Github Resaerch webpages
 * JANUARY, 2022 : Paper presentation (2022), Random Forest Prediction Intervals for Spatially dependent data, Spring conference, Center for Survey Statistics & Methodology, Iowa State University
-
-![](PR4.png)
 
 <!-- ## Highlights
 * JUNE, 2022 : Literature reviews in Active Learning

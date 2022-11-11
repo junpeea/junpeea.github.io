@@ -17,6 +17,7 @@ Spatial or Spatio-temporal data are continuously gaining increasing interest, an
 * APRIL, 2022 : Open the Github Resaerch webpages
 * JANUARY, 2022 : Paper presentation (2022), Random Forest Prediction Intervals for Spatially dependent data, Spring conference, Center for Survey Statistics & Methodology, Iowa State University
 
+![](PR4.png)
 
 <!-- ## Highlights
 * JUNE, 2022 : Literature reviews in Active Learning

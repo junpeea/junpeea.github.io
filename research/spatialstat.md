@@ -5,7 +5,7 @@ parent: Research
 nav_order: 1
 ---
 
-![](Spatial Statistics Image Example.png)
+![](ImageExample1.png)
 
 Recently developed methodologies have made great progress in fitting a complicated shape of spatial distribution and handling large spatial data. I have studied contemporary statistical models and computational algorithms for analyzing large spatial point-referenced data, and proposed a Bayesian Markov-Chain-Monte-Carlo covariance modeling of a spatially structured process over a two-dimensional rectangular lattice grid in view of the Fourier spectral density approach [Jun and Lim (2021)](https://doi.org/10.1007/s42952-021-00156-y). As a natural extension of this idea, we also proposed a novel time series regression and applications to forecast foreign exchange rate data [Jun, Lim, and Kim (2022+)](https://doi.org/10.48550/arXiv.2210.07457).
 

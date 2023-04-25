@@ -13,7 +13,7 @@ Yoon Bae Jun (1990-) is expected to be an assistant professor at the Biostatisti
 
 Jun has been studying Spatial Statistics, Spatial Epidemiology, Environmental Epidemiology, and is working on the development of Statistical Learning methodology for spatially dependent data.
 
-Jun has recently taught "Probability and Statistics for Computer Science (STAT330)" as an instructor for an undergraduate in the department of Computer Science at Iowa State University (Summer, 2022)
+Jun will teach "SURVIVAL ANALYSIS FOR PUBLIC HEALTH (CHS 765)" and "APPLIED BAYESIAN STATISTICS (CHS 717)" as an instructor for a graduate at University of Nevada Reno. Jun has recently taught "Probability and Statistics for Computer Science (STAT 330)" as an instructor for an undergraduate in the department of Computer Science at Iowa State University (Summer 2022)
 
 
 ### Contact

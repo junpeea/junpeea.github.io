@@ -9,7 +9,7 @@ permalink: /
 
 <!-- ![](main_profile.png) -->
 
-Yoon Bae Jun (1990-) is a Postdoc Research Associate at the Department of Statistics at Iowa State University. Jun earned a Ph.D. in Statistics, at Seoul National University (2021).
+Yoon Bae Jun (1990-) is expected to be an assistant professor at the Biostatistics Division, School of Public Health, University of Nevada Reno, starting in July 2023. Jun is currently a Postdoc Research Associate at the Department of Statistics at Iowa State University. Jun earned a Ph.D. in Statistics, at Seoul National University (2021).
 
 Jun has been studying Spatial Statistics, Spatial Epidemiology, Environmental Epidemiology, and is working on the development of Statistical Learning methodology for spatially dependent data.
 

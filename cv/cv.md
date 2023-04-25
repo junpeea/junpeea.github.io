@@ -10,7 +10,7 @@ Curriculum Vitae (2022.10.25) : [CV](https://github.com/junpeea/junpeea.github.i
 
 ## Recent Highlights
 
-* NOVEMBER, 2022 : Job Application submitted (Assistant Professor level)
+* MARCH, 2023 : Join Professorship (Assistant Professor level) in the School of Public Health, University of Nevada, Reno.
 * OCTOBER, 2022 : Jun, Y. B., Lim, C.Y., Kim, K.H., Nonparametric estimation of autocovariannce of a model error in time series [Archive Uploaded](https://doi.org/10.48550/arXiv.2210.07457)
 * JULY,   2022 : STAT330 - Probability and Statistics for Computer Science (Instructor)
 * JANUARY, 2022 : Chakraborty, S., Dey, T., Jun, Y. et al. A Spatiotemporal Analytical Outlook of the Exposure to Air Pollution and COVID-19 Mortality in the USA. JABES (2022). [Paper Published](https://doi.org/10.1007/s13253-022-00487-1)

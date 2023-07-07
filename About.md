@@ -9,7 +9,7 @@ permalink: /
 
 <!-- ![](main_profile.png) -->
 
-Yoon Bae Jun (1990-) is currently an assistant professor at the Biostatistics Division, School of Public Health, University of Nevada Reno. Jun earned a Ph.D. in Statistics, at Seoul National University (2021). and worked as a Postdoc Research Associate at the Department of Statistics at Iowa State University (2021-2023). 
+Yoon Bae Jun (1990-) is currently an assistant professor at the Biostatistics Division, School of Public Health, University of Nevada Reno. Jun earned a Ph.D. in Statistics, at Seoul National University (2021), and worked as a Postdoc Research Associate at the Department of Statistics at Iowa State University (2021-2023). 
 
 Jun has been studying Spatial Statistics, Spatial Epidemiology, Environmental Epidemiology, and is working on the development of Statistical Learning methodology for spatially dependent data.
 

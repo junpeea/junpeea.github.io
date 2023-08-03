@@ -18,12 +18,11 @@ Jun will teach "SURVIVAL ANALYSIS FOR PUBLIC HEALTH (CHS 765)" and "APPLIED BAYE
 
 ### Contact
 
-1221 Snedecor Hall \
-Department of Statistics\
-Iowa State University\
-2438 Osborn Drive\
-Ames, Iowa 50011-1090\
-Phone: (515) 708-5463\
-Email: yjun@iastate.edu
+118 Savitt Medical Science \
+Biostatistics Division \
+University of Nevada, Reno \
+RENO, NV 89557 \
+Phone: (515) 708-5463 \
+Email: yoonbaej@unr.edu
 
 ![](me.jpeg)

@@ -13,7 +13,6 @@ Spatial or Spatio-temporal data are continuously gaining increasing interest, an
 ![](PR4.png)
 
 ## Highlights
-* OCTOBER, 2022 : Finalize Manuscript for Random Forest Prediction Intervals for Spatial data
 * SEPTEMBER, 2022 : Paper presentation (2022), An Efficient Active Learning Design through Random Forest under Covariate, Fall conference, Center for Survey Statistics & Methodology, Iowa State University
 * AUGUST, 2022 : Poster presentation (2022), Nonparametric estimation of the autocovariance of a Gaussian Process model in time series, Expressing and Exploiting Structure in Modeling, Theory, and Computation with Gaussian Processes, The Institute for Mathematical and Statistical Innovation (IMSI) workshop
 * APRIL, 2022 : Open the Github Resaerch webpages

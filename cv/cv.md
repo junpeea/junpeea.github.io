@@ -10,8 +10,10 @@ Curriculum Vitae (2022.10.25) : [CV](https://github.com/junpeea/junpeea.github.i
 
 ## Recent Highlights
 
+* NOVEMBER, 2023 : Invited talk | IBS Journal Club
+* OCTOBER, 2023  : Invited talk | University of Michigan
+* JULY, 2023 : Oral Presentation | Spatial Statistics: Climate and the Environment 2023
 * MARCH, 2023 : Joined Tenure-Track Professorship in the School of Public Health, University of Nevada, Reno.
-* OCTOBER, 2022 : Jun, Y. B., Lim, C.Y., Kim, K.H., Nonparametric estimation of autocovariannce of a model error in time series [Archive Uploaded](https://doi.org/10.48550/arXiv.2210.07457)
 * JULY,   2022 : STAT330 - Probability and Statistics for Computer Science (Instructor)
 * JANUARY, 2022 : Chakraborty, S., Dey, T., Jun, Y. et al. A Spatiotemporal Analytical Outlook of the Exposure to Air Pollution and COVID-19 Mortality in the USA. JABES (2022). [Paper Published](https://doi.org/10.1007/s13253-022-00487-1)
 * JANUARY, 2022 : Jun, YB., Song, I., Kim, OJ. et al. Impact of limited residential address on health effect analysis of predicted air pollution in a simulation study. J Expo Sci Environ Epidemiol (2022). [Paper Published](https://doi.org/10.1038/s41370-022-00412-1)

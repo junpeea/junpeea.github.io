@@ -14,7 +14,7 @@ Curriculum Vitae (2022.10.25) : [CV](https://github.com/junpeea/junpeea.github.i
 * AUGUST, 2024 : Oral Presentation - 2024 Joint Statistical Meetings - Statistics & Data Science: Informaing Policy and Countering Misinformation
 * JANUARY, 2024 : Teaching - Applied Bayesian Statistics (CHS717)
 * NOVEMBER, 2023 : Invited talk - IBS Journal Club
-* OCTOBER, 2023  : Invited talk - Michigan Neuroscience Institute, University of Michigan
+* OCTOBER, 2023  : Invited talk - Lab meeting, Michigan Neuroscience Institute, University of Michigan
 * AUGUST, 2023 : Teaching - Survival Analysis for Public Health (CHS765)
 * JULY, 2023 : Oral Presentation - Spatial Statistics: Climate and the Environment 2023
 * MARCH, 2023 : Joined **Tenure-Track Professorship** in the School of Public Health, University of Nevada, Reno.

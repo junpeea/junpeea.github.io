@@ -15,7 +15,7 @@ Dr. Jun has been studying Spatial Statistics, Spatial Epidemiology, Environmenta
 
 Dr. Jun teaches "SURVIVAL ANALYSIS FOR PUBLIC HEALTH (CHS 765)" and "APPLIED BAYESIAN STATISTICS (CHS 717)" as an instructor for a graduate at the University of Nevada Reno. Jun has also developed an online course, "INTRODUCTION TO HEALTH DATA ANALYSIS (CHS 381)," for undergraduates. Jun taught “Probability and Statistics for Computer Science (STAT 330)” as an instructor for an undergraduate at Iowa State University (Summer 2022)
 
-Dr. Jun has been one of the MS Health Analysis and Biostat program committees since Fall, 2023. Jun advises the three MS students in Fall, 2024.
+Dr. Jun has been one of the MS Health Analysis and Biostatistics program committees since Fall, 2023. Jun advises the three MS students in Fall, 2024.
 
 
 ### Contact

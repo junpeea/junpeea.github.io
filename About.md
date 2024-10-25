@@ -9,11 +9,13 @@ permalink: /
 
 <!-- ![](main_profile.png) -->
 
-Yoon Bae Jun (1990-) is an assistant professor at the Biostatistics Division, School of Public Health, University of Nevada Reno. Jun earned a Ph.D. in Statistics, at Seoul National University (2021), and worked as a Postdoc Research Associate at the Department of Statistics at Iowa State University (2021-2023). 
+Yoon Bae Jun (1990-) is currently an assistant professor at the Biostatistics Division, School of Public Health, University of Nevada Reno. Jun earned a Ph.D. in Statistics, at Seoul National University (2021), and worked as a Postdoc Research Associate at the Department of Statistics, Iowa State University (2021-2023). 
 
 Dr. Jun has been studying Spatial Statistics, Spatial Epidemiology, Environmental Epidemiology, and Statistical Learning methodology for spatially dependent data.
 
-DR. Jun teaches "SURVIVAL ANALYSIS FOR PUBLIC HEALTH (CHS 765)" and "APPLIED BAYESIAN STATISTICS (CHS 717)" as an instructor for a graduate at University of Nevada Reno. Also, Jun developed an online course, "INTRODUCTION TO HEALTH DATA ANALYSIS (CHS 381)" for an undergraduate. Dr. Jun taught "Probability and Statistics for Computer Science (STAT 330)" as an instructor for an undergraduate in the Department of Computer Science at Iowa State University (Summer 2022)
+Dr. Jun teaches "SURVIVAL ANALYSIS FOR PUBLIC HEALTH (CHS 765)" and "APPLIED BAYESIAN STATISTICS (CHS 717)" as an instructor for a graduate at the University of Nevada Reno. Jun has also developed an online course, "INTRODUCTION TO HEALTH DATA ANALYSIS (CHS 381)," for undergraduates. Jun taught “Probability and Statistics for Computer Science (STAT 330)” as an instructor for an undergraduate at Iowa State University (Summer 2022)
+
+Dr. Jun has been one of the MS Health Analysis and Biostat program committees since Fall, 2023. Jun advises the three MS students in Fall, 2024.
 
 
 ### Contact

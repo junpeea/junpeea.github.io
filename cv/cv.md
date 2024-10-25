@@ -5,12 +5,12 @@ nav_order: 2
 permalink: /cv
 ---
 
-Curriculum Vitae (2022.10.25) : [CV](https://github.com/junpeea/junpeea.github.io/blob/main/cv/231201_CV_YoonbaeJun.pdf) 
+Curriculum Vitae (2023.12.01) : [CV](https://github.com/junpeea/junpeea.github.io/blob/main/cv/231201_CV_YoonbaeJun.pdf) 
 
 
 ## Recent Highlights
 
-* AUGUST, 2024 : PBH381 - Introduction to Health Data Analysis (PBH381)
+* AUGUST, 2024 : PBH381 - Introduction to Health Data Analysis (Instructor)
 * AUGUST, 2024 : Oral Presentation - 2024 Joint Statistical Meetings - Statistics & Data Science: Informaing Policy and Countering Misinformation
 * JANUARY, 2024 : Teaching - Applied Bayesian Statistics (CHS717)
 * NOVEMBER, 2023 : Invited talk - IBS Journal Club

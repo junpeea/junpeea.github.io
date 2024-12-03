@@ -21,7 +21,7 @@ Dr. Jun has been one of the MS Health Analysis and Biostatistics program committ
 ### Contact
 
 118 Savitt Medical Science \
-Epidemiology/Biostatistics/Environmental Health \
+Department of Epidemiology/Biostatistics/Environmental Health \
 University of Nevada, Reno \
 RENO, NV 89557 \
 Phone: (515) 708-5463 \

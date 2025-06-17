@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ongoing Researches
+title: Ongoing Research
 parent: Research
 nav_order: 5
 ---

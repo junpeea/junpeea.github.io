@@ -5,17 +5,8 @@ parent: Research
 nav_order: 5
 ---
 
-## A spatiotemporal data fusion project
+## A Efficient Estimation of Generalized Partially Linear Single-Index Models Using Penalized Splines
 Paper  link : (working in progress)\
 Github link : (working in progress)\
-Description : Remote Sensing Group Collaboration
+Description: Dr. Minggen Lu (First Author); Emmanuel Annan (Second Author); Yoonbae Jun (Corresponding Author)
 
-## Root-associated Bacterial Community Changes Associated with Increasing Plant Stress
-Paper  link : (working in progress)\
-Github link : (working in progress)\
-Description : Plant Science Group Collaboration
-
-## Disease cluster analysis for diabetes and hypertension
-Paper  link : (working in progress)\
-Github link : (working in progress)\
-Description : Epidemiology Group Collaboration

@@ -21,7 +21,7 @@ We consider modeling of Fourier coefficients, known as a spectral density functi
 
 ## Nonparametric Spectral Bayesian Temporal Regression
 
-Paper  link : [Jun, Lim, and Kim (2022)](https://doi.org/10.48550/arXiv.2210.07457); Jun, Kim, Kim, and Lim (2025+)\
+Paper  link : [Jun, Lim, and Kim (2022)](https://doi.org/10.48550/arXiv.2210.07457); <ins>Jun, Kim, Kim, and Lim (2025+)</ins>\
 Github link : [NSBTR](https://github.com/junpeea/NSBTR)\
 Abstract :\
 Autocovariance of the error term in a time series model plays a key role in the estimation and inference for the model that it belongs to. Typically, some arbitrary parametric structure is assumed upon the error to simplify the estimation, which inevitably introduces potential model-misspecification. We thus conduct nonparametric estimation of it. To avoid the difficult bandwidth selection issue under the traditional nonparametric truncation approach, this paper conducts the Bayesian estimation of its spectral density in a frequency domain. To this end, we consider two cases: fixed error variance and time-varying one. Each approach is taken to estimate the spectral density of the autocovariance and the model parameters. The methodology is applied to exchange rate forecasting and proves to compete favorably against some benchmark models, including the random walk without drift.

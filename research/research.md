@@ -13,9 +13,9 @@ Spatial or Spatio-temporal data are continuously gaining increasing interest, an
 ![](PR4.png)
 
 ## Highlights
-* June, 2025: Invited Paper presentation, An Efficient Active Learning Design through Random Forest under Covariate Shift, 2025 KSS Spring Meeting
-* March, 2025: Contributed Paper presentation, BSTZINB: A Bayesian Framework for Negative-Binomial Modeling of Spatio-Temporal Zero-Inflated Count Data in Epidemiology, ENAR 2025 Spring Meeting  
-* October, 2024: Internal Grant recieved as Co-PI: SPH-UNR and SPH-UNLV Collaborating Projects, supported by School of Public Health, University of Nevada Reno
+* June 2025: Paper presentation, An Efficient Active Learning Design through Random Forest under Covariate Shift, 2025 KSS Spring Meeting
+* March 2025: Paper presentation, BSTZINB: A Bayesian Framework for Negative-Binomial Modeling of Spatio-Temporal Zero-Inflated Count Data in Epidemiology, ENAR 2025 Spring Meeting  
+* October 2024: Internal Grant received as Co-PI: SPH-UNR and SPH-UNLV Collaborating Projects, supported by the School of Public Health, University of Nevada, Reno
 
 
 

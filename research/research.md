@@ -13,16 +13,9 @@ Spatial or Spatio-temporal data are continuously gaining increasing interest, an
 ![](PR4.png)
 
 ## Highlights
-* SEPTEMBER, 2022 : Paper presentation (2022), An Efficient Active Learning Design through Random Forest under Covariate, Fall conference, Center for Survey Statistics & Methodology, Iowa State University
-* AUGUST, 2022 : Poster presentation (2022), Nonparametric estimation of the autocovariance of a Gaussian Process model in time series, Expressing and Exploiting Structure in Modeling, Theory, and Computation with Gaussian Processes, The Institute for Mathematical and Statistical Innovation (IMSI) workshop
-* APRIL, 2022 : Open the Github Resaerch webpages
-* JANUARY, 2022 : Paper presentation (2022), Random Forest Prediction Intervals for Spatially dependent data, Spring conference, Center for Survey Statistics & Methodology, Iowa State University
+* June, 2025: Invited Paper presentation, An Efficient Active Learning Design through Random Forest under Covariate Shift, 2025 KSS Spring Meeting
+* March, 2025: Contributed Paper presentation, BSTZINB: A Bayesian Framework for Negative-Binomial Modeling of Spatio-Temporal Zero-Inflated Count Data in Epidemiology, ENAR 2025 Spring Meeting  
+* October, 2024: Internal Grant recieved as Co-PI: SPH-UNR and SPH-UNLV Collaborating Projects, supported by School of Public Health, University of Nevada Reno
 
-<!-- ## Highlights
-* JUNE, 2022 : Literature reviews in Active Learning
-* MAY, 2022 : Finalize Manuscript for Random Forest Prediction Intervals for Spatial data
-* MAY, 2022 : Literature reviews in Spatial Statistics [1](https://doi.org/10.1080/10618600.2021.1886938), [2](10.1109/MSP.2013.2246292), [3](https://proceedings.neurips.cc/paper/2021/hash/c6b8c8d762da15fa8dbbdfb6baf9e260-Abstract.html), [4](https://dl.acm.org/doi/10.5555/3023638.3023667), [5](https://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
-* APRIL, 2022 : Open the Github Resaerch webpages
-* APRIL, 2022 : Sensitive analysis in Random Forest Prediction Intervals for Spatial data
-* MARCH, 2022 : Real data analysis in Random Forest Prediction Intervals for Spatial data
- -->
+
+

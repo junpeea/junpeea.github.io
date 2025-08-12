@@ -14,7 +14,7 @@ Curriculum Vitae (2025.06.01) : [CV](https://github.com/junpeea/junpeea.github.i
 * JANUARY, 2025 : Teaching - Introduction to Biostatistics in Public Health (PBH281)
  
 * October, 2024 : Internal Grant recieved as Co-PI: SPH-UNR and SPH-UNLV Collaborating Projects, supported by School of Public Health, University of Nevada Reno
-* AUGUST, 2024 : Welcomed three Master's students: Emmanuel Annan (Research Assistant, Academic Advisee | 2024-ongoing); Hannah Harris (Academic Advisee | 2024-ongoing); Conner Keighran (Academic Advisee | 2024-ongoing)  
+* AUGUST, 2024 : Welcomed three Master's students: Emmanuel Annan (Research Assistant, Academic Advisee, 2024-ongoing); Hannah Harris (Academic Advisee, 2024-ongoing); Conner Keighran (Academic Advisee, 2024-ongoing)  
 * AUGUST, 2024 : Oral Presentation - 2024 Joint Statistical Meetings - Statistics & Data Science: Informaing Policy and Countering Misinformation
 * JANUARY, 2024 : Teaching - Applied Bayesian Statistics (CHS717)
  
